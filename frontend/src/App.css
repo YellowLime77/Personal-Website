@@ -1,7 +1,17 @@
+.background-div {
+  background-image: url(Facing_Your_Song_T.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  z-index: -1;
+}
+
+.backdrop-blur-div {
+  backdrop-filter: blur(10px);
+}
+
 #root {
   max-width: 1280px;
-  margin: 0 auto;
-  padding: 2rem;
   text-align: center;
 }
 
