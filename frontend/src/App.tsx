@@ -10,7 +10,7 @@ function App() {
 
           <p>Just a temporary website</p>
 
-          <p>In the meantime, check out <a href="https://vocaloidle.matthewyang.tech/">Vocaloidle: A Vocaloid Heardle</a></p>
+          <p>In the meantime, check out <a href="https://vocaloidle.matthewyang.tech/">Vocaloidle: A Vocaloid Heardle</a> or <a href="https://timetablediff.matthewyang.tech/">TimetableDiff: A tool for students to compare timetables</a></p>
         </div>
       </div>
     </div>
